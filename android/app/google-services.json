@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646611009036",
+    "project_id": "eventfy-fa290",
+    "storage_bucket": "eventfy-fa290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646611009036:android:033d86968703312433f829",
+        "android_client_info": {
+          "package_name": "com.example.mobpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4a-h0m8_pr7D6is6ZVn0UxPNQm_Gj_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
